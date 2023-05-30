@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./Counter.css";
+
 import { store } from "../Redux/Store";
 import { decrement, increment } from "../Redux/action/action";
 
